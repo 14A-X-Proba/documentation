@@ -1,6 +1,1 @@
 # documentation
-
-## Nits
-
-## Alcím
-
