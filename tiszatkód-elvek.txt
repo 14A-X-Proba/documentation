@@ -1,0 +1,1 @@
+1. Egy kódtag maximum 5 soros legyen!
