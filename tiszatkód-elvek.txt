@@ -1,1 +1,1 @@
-1. Egy kódtag maximum 5 soros legyen!
+1. Egy kódtag maximum 5 soros legyengit fetch 

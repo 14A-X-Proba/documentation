@@ -1,4 +1,5 @@
 {
     "git.autofetch": true,
-    "git.autofetchPeriod": 60
+    "git.autofetchPeriod": 60,
+    "git.pruneOnFetch": true
 }
