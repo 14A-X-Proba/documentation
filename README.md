@@ -7,4 +7,3 @@ most?
 mmmmm
 aktualizálva
 zutzutzurwzrewr
-124
