@@ -3,7 +3,9 @@
 ## Issue ticket number and link
 
 ## Checklist before requesting a review
+- [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] New and existing unit tests pass locally with my changes.
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
