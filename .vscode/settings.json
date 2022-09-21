@@ -2,5 +2,6 @@
   "git.autofetch": true,
   "git.autofetchPeriod": 60,
   "git.pruneOnFetch": true,
-  "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "git.confirmSync": false
 }
