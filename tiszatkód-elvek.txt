@@ -1,1 +1,2 @@
-1. Egy kódtag maximum 5 soros legyengit fetch 
+1. Egy kódtag maximum 5 soros legyengit fetch
+2. Osztályok azonosítója CamelCase jelöléssel történjen!
