@@ -8,6 +8,8 @@ addAssignees: author
 reviewers:
   - nitslaszlo
   - nitslaci
+  - mecseridavid
+  - UngerAttila
 
 # A number of reviewers added to the PR
 # Set 0 to add all the reviewers (default: 0)
