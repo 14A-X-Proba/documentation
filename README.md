@@ -4,8 +4,5 @@ kész a sablon
 
 ## Add pull request template
 
-na
-most?
-mmmmm
-aktualizálva
-zutzutzurwzrewr
+## Link a specifikációhoz
+At oldal az [Elte](http://ade.web.elte.hu/wabp/lecke2_lap1.html#teteje) honlapjáról tölthető
